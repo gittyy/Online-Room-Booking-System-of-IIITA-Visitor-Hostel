@@ -1,0 +1,87 @@
+#select_box
+{
+	width:30em;
+	height:2.5em;
+	margin-left:140px;
+	
+}
+#home_box
+{
+	margin-left:95%;
+
+	
+}
+#name_box
+{
+	width:30em;
+	height:2em;
+	margin-left:140px;
+	margin-top:80px;
+	
+}
+#id_box
+{
+	width:30em;
+	height:2em;
+	margin-left:140px;
+}
+#check-in-date-box
+{
+	width:30em;
+	height:2em;
+	margin-left:140px;
+}
+#submit_box
+{
+	width:16em;
+	height:4em;
+	margin-left:220px;
+	margin-top:100px;
+	background-color:lightgreen;
+}
+#check-out-date-box
+{
+	width:30em;
+	height:2em;
+	margin-left:140px;
+}
+#room_box
+{
+	width:30em;
+	height:2em;
+	margin-left:140px;
+}
+
+.dateclass{
+    width:100%;
+}
+
+.dateclass.placeholderclass::before{
+    width:100%;
+    content:attr(placeholder);
+}
+
+.dateclass.placeholderclass:hover::before{
+    width:0%;
+    content:"";
+}
+.design
+{
+	margin-left:25%;
+	margin-right:25%;
+	height:40em;
+	width:40em;
+	background-color:white;
+	
+	opacity:0.8;
+}
+
+.bodyclass
+{
+
+    background-image: url("campus2.jpg");
+	
+    background-repeat: no-repeat;
+    background-color: beige;
+
+}

@@ -1,0 +1,221 @@
+#login
+{
+    text-align: center;
+    width: 300px;
+
+    padding: 25px;
+    margin-top: 120px;
+    margin-left: 450px;
+}
+#image_box
+{
+	margin-left:33%;
+	margin-top:50px;body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgb(0, 0, 0);
+  background-color: #fff;
+}
+
+
+#imgcover img{
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heading h1{
+  margin-top: 20px;
+  margin-bottom: 60px;
+  font-size: 36px;
+  font-weight: 700;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-align: center;
+}
+
+#heading h2{
+  margin-left: 60px;
+  margin-right: 60px;
+  font-size: 26px;
+  text-align: center;
+}
+
+.container-fluid p{
+  font-size : 16px;
+  text-align: justify;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.container-fluid .row{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#imgleft{
+  float: left;
+  height: 300px;
+  width: 350px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 20px;
+}
+
+#imgright{
+  float: right;
+  height: 300px;
+  width: 350px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 20px;
+
+}
+
+.table{
+  width: 75%;
+}
+
+#contactP{
+  font-size: 18px;
+  font-weight: 600px;
+  margin-left: 60px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#loginpage{
+  margin-top: 60px;
+  /*font-weight: bold;*/
+}
+/*#contactPR{
+  font-size: 18px;
+  font-weight: 600px;
+  margin-left: 60px;
+  text-align: left;
+  margin-bottom: 20px;
+}*/
+
+}
+#l
+{
+	margin-left:250px;
+	margin-top:50px;
+}
+#loginBox
+{
+    width: 30em;  height: 3em;
+	margin-top:50px;
+	margin-left:120px;
+}
+
+
+
+
+}
+#namebox {
+    width: 25em;  height: 2em;
+    margin-left: 60px;
+    margin-top: 3px;
+}
+
+#bookingidbox
+{
+    width: 25em;  height: 2em;
+    margin-left: 38px;
+    margin-top: 3px;
+}
+#passwordBox
+{
+	margin-left:120px;
+
+    margin-top:20px;
+    width: 30em;  height: 3em;
+    
+}
+
+#loginButton
+{
+    width: 7em;  height: 2em;
+    font-size: 16px;
+    background-color: lightblue;
+	margin-left: 180px;
+}
+
+#signupButton 
+{
+	width: 7em;  height: 2em;
+    font-size: 16px;
+    background-color: lightblue;
+	
+}
+
+#id
+{
+   font-weight: bolder;
+}
+
+#password
+{
+    font-weight: bold;
+}
+#text{
+	font-family:arial;
+}
+a:link {
+    color: black;
+	 text-decoration: none;
+	 
+}
+
+/* visited link */
+a:visited {
+    color: black;
+	 text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+	 text-decoration: underline;
+	 background-color:lightgray;
+}
+
+/* selected link */
+a:active {
+    color: black;
+	 text-decoration: underline;
+	 background-color:lightgray;
+}
+.form
+{
+	margin-left:43%;	
+		
+}
+.effect:hover
+{
+	-webkit-transform: scale(1.1);
+     -ms-transform: scale(1.1);
+        transform: scale(1.1);
+}
+.ID
+{
+	
+	margin-left:25%;
+	margin-right:25%;
+	height:40em;
+	width:40em;
+	background-color:white;
+	opacity:0.8;
+}
+
+.bodyClass
+{
+    background-image: url("image/campus2.jpg");
+    background-repeat: no-repeat;
+    background-color: beige;
+
+}
