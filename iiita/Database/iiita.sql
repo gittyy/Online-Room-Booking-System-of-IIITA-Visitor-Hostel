@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Mar 25, 2010 at 10:54 PM
+-- Generation Time: Nov 17, 2017 at 10:54 PM
 -- Server version: 5.1.33
 -- PHP Version: 5.2.9
 
@@ -23,8 +23,8 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 -- Table structure for table `reservation`
 --
 
-create database hotel;
-use hotel;
+CREATE DATABASE hotel;
+USE hotel;
 CREATE TABLE IF NOT EXISTS `reservation` (
   `r_id` varchar(30) NOT NULL DEFAULT '0',
   `r_chkindt` date NOT NULL ,
